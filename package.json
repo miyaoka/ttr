@@ -1,0 +1,23 @@
+{
+  "name": "tetris",
+  "version": "1.0.0",
+  "description": "tetris",
+  "author": "Masaya Kazama <miyan@t-p.jp>",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nuxt-edge": "^2.0.0-25523369.7c85202"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "devDependencies": {
+    "pug": "^2.0.3",
+    "pug-plain-loader": "^1.0.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2"
+  }
+}
